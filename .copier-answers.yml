@@ -7,8 +7,9 @@ compose_version: v2+
 domains_migration: {}
 domains_prod: []
 domains_test:
-- test-portal.alimentosdelsur.com
-- test-alimentosdelsur.cumbre.ar
+-   hosts:
+    - test-portal.alimentosdelsur.com
+    - test-alimentosdelsur.cumbre.ar
 gitlab_url: ''
 odoo_dbfilter: ^test
 odoo_initial_lang: es_AR
