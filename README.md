@@ -4,7 +4,7 @@
 [![BSL-1.0 license](https://img.shields.io/badge/license-BSL--1.0-success})](LICENSE)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://pre-commit.com/)
 
-# myproject-odoo - a Doodba deployment
+# do-alimentosdelsur16ce - a Doodba deployment
 
 This project is a Doodba scaffolding. Check upstream docs on the matter:
 
@@ -14,9 +14,4 @@ This project is a Doodba scaffolding. Check upstream docs on the matter:
 
 # Credits
 
-This project is maintained by:
-
-[![Tecnativa](https://www.tecnativa.com/r/H3p)](https://www.tecnativa.com/r/bb4)
-
-Also, special thanks to
-[our dear community contributors](https://github.com/Tecnativa/doodba-copier-template/graphs/contributors).
+This project is maintained by: Crumges

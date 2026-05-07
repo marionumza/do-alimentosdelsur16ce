@@ -125,7 +125,7 @@ services:
       GATEWAY_NAME: "proxy_general"
       DNS_LOCAL: "1"
       DNS_INTERNAL_FROM_DOCKER: "1"
-      DOCKER_PROJECT: "${COMPOSE_PROJECT_NAME:-myproject-odoo}"
+      DOCKER_PROJECT: "${COMPOSE_PROJECT_NAME:-do-alimentosdelsur16ce}"
       DOCKER_PRIMARY_SERVICE: "odoo"
       ALLOWED_HOSTS: >-
         cdnjs.cloudflare.com fonts.googleapis.com fonts.gstatic.com www.google.com www.googleapis.com www.gravatar.com

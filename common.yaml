@@ -1,6 +1,7 @@
 
 services:
   odoo:
+    image: docker.io/marionumza/do-alimentosdelsur16ce:16.0
     build:
       context: ./odoo
       args:

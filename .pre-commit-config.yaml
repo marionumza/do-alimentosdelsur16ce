@@ -99,8 +99,8 @@ repos:
       - id: oca-gen-addon-readme
         args:
           - --addons-dir=odoo/custom/src/private
-          - --org-name=Tecnativa
-          - --repo-name=myproject-odoo
+          - --org-name=Crumges
+          - --repo-name=do-alimentosdelsur16ce
           - --convert-fragments-to-markdown
           - --gen-html
           - --if-fragments-changed
