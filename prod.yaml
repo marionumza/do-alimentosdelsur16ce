@@ -9,7 +9,7 @@ services:
       - .docker/odoo.env
       - .docker/db-access.env
     environment:
-      DB_FILTER: "^prod"
+      DB_FILTER: "^test"
       DOODBA_ENVIRONMENT: "${DOODBA_ENVIRONMENT-prod}"
       INITIAL_LANG: "es_AR"
       LIST_DB: "false"
