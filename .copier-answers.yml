@@ -29,7 +29,7 @@ postgres_username: odoo
 postgres_version: '18'
 project_author: Crumges
 project_license: BSL-1.0
-project_name: do-alimentosdelsur16ce
+project_name: prod-alimentosdelsur16ce
 smtp_default_from: ''
 smtp_relay_host: ''
 traefik_version: 2
