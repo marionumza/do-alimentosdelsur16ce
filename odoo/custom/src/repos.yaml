@@ -14,3 +14,21 @@
     - ocb $ODOO_VERSION
     # Example of a merge of the PR with the number <PR>
     # - oca refs/pull/<PR>/head
+
+./ingadhoc-odoo-argentina:
+  defaults:
+    depth: $DEPTH_DEFAULT
+  remotes:
+    ingadhoc: https://github.com/ingadhoc/odoo-argentina.git
+  target: ingadhoc $ODOO_VERSION
+  merges:
+    - ingadhoc $ODOO_VERSION
+
+./social:
+  defaults:
+    depth: $DEPTH_DEFAULT
+  remotes:
+    OCA: https://github.com/OCA/social.git
+  target: OCA $ODOO_VERSION
+  merges:
+    - OCA $ODOO_VERSION
