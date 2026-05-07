@@ -1,18 +1,34 @@
-[![Doodba deployment](https://img.shields.io/badge/deployment-doodba-informational)](https://github.com/Tecnativa/doodba)
-[![Last template update](https://img.shields.io/badge/last%20template%20update-v9.5.0-informational)](https://github.com/Tecnativa/doodba-copier-template/tree/v9.5.0)
-[![Odoo](https://img.shields.io/badge/odoo-v16.0-a3478a)](https://github.com/odoo/odoo/tree/16.0)
-[![Deployment data](https://img.shields.io/badge/%F0%9F%8C%90%20prod-portal.alimentosdelsur.com-green)](http://portal.alimentosdelsur.com)
-[![BSL-1.0 license](https://img.shields.io/badge/license-BSL--1.0-success})](LICENSE)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://pre-commit.com/)
+# 🚀 Alimentos del Sur | Gestión ERP
 
-# prod-alimentosdelsur16ce - a Doodba deployment
+![Odoo Version](https://img.shields.io/badge/Odoo-16.0-a3478a?style=for-the-badge&logo=odoo)
+![Odoo Edition](https://img.shields.io/badge/Edición-Community-blue?style=for-the-badge)
+![Managed by Crumges](https://img.shields.io/badge/Gestionado_por-Crumges-orange?style=for-the-badge)
 
-This project is a Doodba scaffolding. Check upstream docs on the matter:
+---
 
-- [General Doodba docs](https://github.com/Tecnativa/doodba).
-- [Doodba copier template docs](https://github.com/Tecnativa/doodba-copier-template)
-- [Doodba QA docs](https://github.com/Tecnativa/doodba-qa)
+### 🌐 Acceso al Entorno (Producción)
 
-# Credits
+| Entorno | Estado | Enlace de Acceso |
+| :--- | :--- | :--- |
+| **🚀 Producción** | `Operativo` | [portal.alimentosdelsur.com](http://portal.alimentosdelsur.com) |
 
-This project is maintained by: Crumges
+---
+
+### 📋 Ficha Técnica
+
+*   **Cliente:** Alimentos del Sur
+*   **Proyecto ID:** `alimentosdelsur16ce`
+*   **Proxy Inverso:** Traefik v2
+*   **Orquestador:** Docker Compose v2+
+*   **Template Base:** Doodba v9.5.0
+
+---
+
+### 📞 Soporte
+- **Email:** [soporte@cumbre.ar](mailto:soporte@cumbre.ar)
+- **Web:** [www.crumges.com](https://www.crumges.com)
+
+---
+
+> [!NOTE]
+> *Este es un repositorio privado. El acceso y la modificación del código están reservados al personal autorizado de Crumges para garantizar la integridad de los datos.*
