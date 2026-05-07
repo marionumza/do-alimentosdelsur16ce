@@ -5,8 +5,10 @@ backup_dst: ''
 cidr_whitelist: null
 compose_version: v2+
 domains_migration: {}
-domains_prod: {}
-domains_test: {}
+domains_prod: []
+domains_test:
+- test-portal.alimentosdelsur.com
+- test-alimentosdelsur.cumbre.ar
 gitlab_url: ''
 odoo_dbfilter: ^prod
 odoo_initial_lang: es_AR
@@ -20,7 +22,7 @@ paths_with_crawlers:
 paths_without_crawlers:
 - /web
 - /website/info
-postgres_dbname: prod
+postgres_dbname: test
 postgres_exposed: false
 postgres_username: odoo
 postgres_version: '18'
