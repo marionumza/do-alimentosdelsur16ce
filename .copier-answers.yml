@@ -5,8 +5,10 @@ backup_dst: ''
 cidr_whitelist: null
 compose_version: v2+
 domains_migration: {}
-domains_prod: {}
-domains_test: {}
+domains_prod:
+- portal.alimentosdelsur.com
+- alimentosdelsur.cumbre.ar
+domains_test: []
 gitlab_url: ''
 odoo_dbfilter: ^prod
 odoo_initial_lang: es_AR
